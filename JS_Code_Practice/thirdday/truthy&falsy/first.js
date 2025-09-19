@@ -1,0 +1,1 @@
+NaN ? console.log('It is truthy value'):console.log('it is falsy value');
