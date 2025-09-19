@@ -1,3 +1,4 @@
+debugger
 console.log("Hello Programmer")
 let a=10
-console.log(b)
+console.log(window.a)
