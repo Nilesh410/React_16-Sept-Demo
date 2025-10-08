@@ -8,8 +8,8 @@ const container = React.createElement('div', {key:1, className: 'conatiner', id:
             React.createElement('div',{key:2,className:'input-group'},[
                 React.createElement('label', {key:1,htmlFor:'username'}, 'Username'),
                 React.createElement('input',{key:1,id:'username'}),
-                React.createElement('label', {key:2,htmlFor:'passwrod',type:'password'}, 'Password'),
-                React.createElement('input',{key:2,id:'password'})
+                React.createElement('label', {key:2,htmlFor:'passwrod'}, 'Password'),
+                React.createElement('input',{key:2,id:'password',type:'password'})
             ])
             
         ])   
